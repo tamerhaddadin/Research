@@ -15,7 +15,6 @@ df.head()
 ft = pd.DataFrame(data=None)
 
 
-
 ft['team_id']=df['team_id']
 
 
